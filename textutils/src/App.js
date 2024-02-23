@@ -6,6 +6,8 @@ function App() {
     <>
 {/* <Navbar title = {"TextUtills"} aboutText ="About TextUtills"/> */}
 <Navbar/>
+
+
     </>
   );
 }
