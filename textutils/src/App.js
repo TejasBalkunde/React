@@ -5,7 +5,8 @@ function App() {
   return (
     <>
 {/* <Navbar title = {"TextUtills"} aboutText ="About TextUtills"/> */}
-<Navbar/>
+<Navbar title = {"TextUtills"} />
+{/* <Navbar/> */}
 
 
     </>
